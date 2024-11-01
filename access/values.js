@@ -3,9 +3,9 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "01.01.2001"; // Дата рождения
-var fullname = "Фамилия Имя Отчество" // ФИО
-var name = "Имя" // Имя
+var birthdate = "08.05.2005"; // Дата рождения
+var fullname = "Ростовський Андрій Сергійович" // ФИО
+var name = "Андрій" // Имя
 
 // Паспорт
 var passport_id = "123456789" // Номер паспорта
