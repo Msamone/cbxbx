@@ -13,11 +13,7 @@ var passport_id = "006253587" // Номер паспорта
 // КПП
 var kpp_id = "3820982524" // ИНН
 
-// Права
-var rights_valid_until = "01.01.2028" // Права "Дійсні до"
-var rights_categories = "A, B" // Права "Категорії"
-var rights_tsc = "ТСЦ 8631" // Права "Видав
-var rights_id = "KBE968639" // Права "Серія та номер""
+
 
 // COVID-сертификат
 var covid_valid_until = "01.01.2023" // Сертификат "Дійсний до"
